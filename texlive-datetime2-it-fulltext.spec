@@ -3,7 +3,7 @@ Version:	54779
 Release:	2
 Summary:	Italian full text styles for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-it-fulltext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-it-fulltext
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-it-fulltext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-it-fulltext.doc.r%{version}.tar.xz
